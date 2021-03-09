@@ -1,0 +1,9 @@
+.warna-bg{
+	background: linear-gradient(90deg, rgba(9,218,231,1) 0%, rgba(49,98,242,1) 0%, rgba(0,212,255,1) 52%);
+}
+
+.jumbotron-bg{
+	background-size: cover;
+	background: url(../img/bg1.jpg);
+	background-size: 300px;
+}

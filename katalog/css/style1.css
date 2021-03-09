@@ -1,0 +1,9 @@
+.warna-bg{
+	background: linear-gradient(to right, orange, #ec38bc, #7303c0, cyan);
+}
+
+.jumbotron-bg{
+	background-size: cover;
+	background: url(../img/bg.jpg);
+	background-size: 300px;
+}
